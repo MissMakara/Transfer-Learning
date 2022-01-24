@@ -1,2 +1,2 @@
-# Transform-Learning
-Transform learning with different models
+# Transfer-Learning
+Transfer learning with different models
